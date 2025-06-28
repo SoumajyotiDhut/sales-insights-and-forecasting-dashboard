@@ -33,7 +33,7 @@ The objective is broken down into the following key components:
 
 - 📊 Power BI (Visualization, DAX)
 - 📁 CSV Dataset (SuperStore Sales)
-- 📈 Time Series Forecasting (Power BI Forecast, Python - Optional)
+- 📈 Time Series Forecasting (Power BI Forecast)
 - 🧮 Microsoft Excel (Data cleaning)
 
 ---
@@ -69,7 +69,7 @@ The objective is broken down into the following key components:
 
 ## 💡 Future Enhancements
 
-- Integrate R/Python forecasting for more flexible modeling (ARIMA, Prophet).
+- Integrate Python forecasting for more flexible modeling (ARIMA, Prophet).
 - Add drill-down reports for product-level profitability.
 - Automate data refresh with Power BI Service and schedule daily updates.
 
@@ -78,9 +78,12 @@ The objective is broken down into the following key components:
 ## 🙋‍♂️ Author
 
 **Soumajyoti Dhut**  
-*Aspiring Business Analyst | Skilled in Power BI, Python, SQL, Excel*  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [Portfolio] (optional)
+* Skilled in Power BI, Python, SQL, Excel*  
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
