@@ -62,10 +62,10 @@ This Power BI project is focused on creating a visually compelling and insightfu
 
 | File Name                        | Description                                  |
 |----------------------------------|----------------------------------------------|
-| `Sales_Forecasting.pbix`         | Main Power BI dashboard file                 |
+| `supersale_dashboard.pbix`         | Main Power BI dashboard file                 |
 | `SuperStore_Sales_Dataset.csv`   | Cleaned dataset used in dashboard            |
-| `Images/dashboard-overview.png`  | Main dashboard snapshot                      |
-| `Images/sales-trend-forecast.png`| Sales forecasting visual                     |
+| `dashboard-overview.png`  | Main dashboard snapshot                      |
+| `sales-trend-forecast.png`| Sales forecasting visual                     |
 | `README.md`                      | Project documentation                        |
 
 ---
