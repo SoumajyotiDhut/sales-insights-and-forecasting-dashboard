@@ -32,10 +32,10 @@ This Power BI project is focused on creating a visually compelling and insightfu
 ## 📷 Dashboard Snapshots
 
 ### 🖥️ Main Dashboard Overview  
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### 📈 15-Day Sales Forecast  
-![Sales Forecast](Images/sales-trend-forecast.png)
+![Sales Forecast](sales-trend-forecast.png)
 
 ---
 
